@@ -53,9 +53,8 @@ lift-spares.se; price, availability and checkout are on the website as always.
 
 ## Privacy
 
-Searches and requests are recorded with your signed-in customer identity, the name of your assistant and the
-session, so that Lift-Spares can add the parts people look for. No e-mail address, name or IP address is stored
-with the searches. Contact: https://lift-spares.se/pages/kontakt.
+Searches and requests made through this service are recorded by Lift-Spares. No e-mail address, name or IP
+address is stored with them. Questions: https://lift-spares.se/pages/kontakt.
 
 ## License
 
