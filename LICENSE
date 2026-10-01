@@ -1,0 +1,19 @@
+Copyright (c) 2026 Elegant Lift Sweden AB. All rights reserved.
+
+This repository is published so that customers of Lift-Spares (https://lift-spares.se) can read how the
+Lift-Spares Parts Finder MCP server works and how to connect the AI assistant they already use to the hosted
+service at https://mcp.lift-spares.se/mcp.
+
+No licence is granted. You may view this source code on GitHub. You may not use, copy, modify, merge,
+publish, distribute, sublicense, sell, host, or create derivative works from any part of this repository,
+in whole or in part, without prior written permission from Elegant Lift Sweden AB.
+
+Connecting an AI assistant to the hosted service at https://mcp.lift-spares.se/mcp does not involve copying
+or running this code and is permitted under the Lift-Spares terms of service.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
+EVENT SHALL ELEGANT LIFT SWEDEN AB BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE
+SOFTWARE OR ITS USE.
+
+Permission requests: Elegant Lift Sweden AB, via https://lift-spares.se.
