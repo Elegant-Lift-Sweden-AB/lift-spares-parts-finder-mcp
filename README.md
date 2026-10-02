@@ -15,7 +15,7 @@
 
 ## Pick your guide
 
-- [Claude](https://lift-spares.se/pages/ai-assistant-claude) (web, desktop, mobile, Claude Code)
+- Claude (web, desktop, mobile, Claude Code): open the [Lift-Spares Parts Finder listing](https://claude.ai/directory/connectors/lift-spares) in Claude's connector directory and click **Connect to Claude**. [Full guide](https://lift-spares.se/pages/ai-assistant-claude)
 - [ChatGPT](https://lift-spares.se/pages/ai-assistant-chatgpt) (web, desktop, mobile)
 - [Cursor](https://lift-spares.se/pages/ai-assistant-cursor) (desktop), or one click:
   [![Add to Cursor](https://cursor.com/deeplink/mcp-install-dark.svg)](https://cursor.com/en/install-mcp?name=lift-spares&config=eyJ1cmwiOiJodHRwczovL21jcC5saWZ0LXNwYXJlcy5zZS9tY3AifQ%3D%3D)
@@ -57,6 +57,8 @@ Steps:
 
 **Claude Code**
 
+If the user has connected Lift-Spares on claude.ai, it is already in Claude Code when they sign in with the same Claude account. Otherwise:
+
 ```bash
 claude mcp add --transport http --scope user lift-spares https://mcp.lift-spares.se/mcp
 ```
@@ -90,7 +92,7 @@ Desktop app: **Cursor Settings** → **Tools & MCP** → **Login** next to lift-
 
 **Claude.ai, Claude Desktop, Claude mobile and ChatGPT**
 
-An agent cannot add connectors in these apps. Give the user the steps from the [Claude guide](https://lift-spares.se/pages/ai-assistant-claude) or the [ChatGPT guide](https://lift-spares.se/pages/ai-assistant-chatgpt).
+An agent cannot add connectors in these apps. Claude: tell the user to open https://claude.ai/directory/connectors/lift-spares, click **Connect to Claude** and sign in, then switch Lift-Spares Parts Finder on under **+** → **Connectors** in a chat ([Claude guide](https://lift-spares.se/pages/ai-assistant-claude)). ChatGPT: give the user the [ChatGPT guide](https://lift-spares.se/pages/ai-assistant-chatgpt).
 
 **Any other MCP client**
 
