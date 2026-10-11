@@ -11,6 +11,9 @@ in whole or in part, without prior written permission from Elegant Lift Sweden A
 Connecting an AI assistant to the hosted service at https://mcp.lift-spares.se/mcp does not involve copying
 or running this code and is permitted under the Lift-Spares terms of service.
 
+Exception: the Cursor plugin manifest files .cursor-plugin/plugin.json and mcp.json are licensed under the MIT
+License, see LICENSE-PLUGIN. Everything else in this repository stays under the terms above.
+
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
 LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO
 EVENT SHALL ELEGANT LIFT SWEDEN AB BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM THE

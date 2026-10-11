@@ -1,0 +1,16 @@
+{
+  "name": "lift-spares",
+  "displayName": "Lift-Spares Parts Finder",
+  "version": "1.0.0",
+  "description": "Identify lift (elevator) and escalator spare parts in the Lift-Spares catalog by part number or description, get the product page or a cart link on lift-spares.se, and ask Lift-Spares for parts that are not on the website. Sign-in with an e-mail code.",
+  "author": {
+    "name": "Elegant Lift Sweden AB",
+    "email": "info@lift-spares.se",
+    "url": "https://lift-spares.se"
+  },
+  "homepage": "https://lift-spares.se/en/pages/ai-assistant-cursor",
+  "repository": "https://github.com/Elegant-Lift-Sweden-AB/lift-spares-parts-finder-mcp",
+  "license": "MIT",
+  "keywords": ["lift", "elevator", "escalator", "spare parts", "part number", "KONE", "Otis", "Schindler"],
+  "logo": "assets/logo.png"
+}
